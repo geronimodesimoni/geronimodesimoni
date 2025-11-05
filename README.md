@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Geronimo Desimoni
 
-<!--
-**geronimodesimoni/geronimodesimoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economist | 💻 Master's in Data Science  
+💼 Senior Consultant in Financial Software & Data Solutions  
 
-Here are some ideas to get you started:
+I work on projects integrating financial systems, back-office automation, and data management tools.  
+My main interests are software development, data pipelines, and financial technology consulting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- **Languages:** Python, PLSQL, Unix
+- **Databases:** PostgreSQL, MySQL, DB2
+- **Tools:** Linux, Control-M, ServiceNow, Jira
+- **Concepts:** ETL, Data Modeling, Financial Systems Integration
+
+---
+
+## 🚀 Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [Bank Data ETL](https://github.com/tuusuario/bank-data-etl) | End-to-end ETL process for bank transactions. | Python, SQL |
+| [Control-M Job Monitor](https://github.com/tuusuario/controlm-monitor) | Automation script to monitor Control-M jobs and alerts. | Python, REST API |
+| [Financial Dashboard](https://github.com/tuusuario/fin-dashboard) | Internal financial dashboard using Flask and PostgreSQL. | Python, Flask, SQL |
+
+---
+
+## 📫 Contact
+📧 [geronimodesimoni@gmail.com](mailto:geronimodesimoni@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/geronimodesimoni/)
+
